@@ -1,0 +1,17 @@
+{
+  "name": "pdf-easy-example",
+  "version": "1.0.0",
+  "description": "This convet pdf to text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-pdf-ocr": "^1.0.0-main",
+    "pdf-extract": "^1.0.11"
+  }
+}
